@@ -16,7 +16,9 @@ A roguelike game built in Rust, following Herbert Wolverson's *"Hands-On Rust: E
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/dungeon-crawler.git
+   git clone https://github.com/your-username/DungeonCrawler.git
+   cd dungeon-crawler
+   cargo run
 
 ---
 
